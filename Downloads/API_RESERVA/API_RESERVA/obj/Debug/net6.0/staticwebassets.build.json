@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wRBA5hBgOJFiqZ6pRO7ZsS96jH6HsQWTTJPUsMCHuaQ=",
+  "Source": "API_RESERVA",
+  "BasePath": "_content/API_RESERVA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
